@@ -1,0 +1,1 @@
+-- Gunakan database/migrasi_multi_barang_struk.sql agar migrasi memeriksa kolom dan indeks sebelum menambahkannya.\n
