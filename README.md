@@ -39,3 +39,8 @@ Pemeriksaan sintaks PHP dilakukan pada seluruh file PHP proyek. Uji runtime teta
 - Foto alat dibatasi maksimal 5 MB dan hanya menerima JPG, PNG, atau WEBP yang tervalidasi dari sisi server.
 - Penghapusan alat dan pengguna menggunakan POST, prepared statement, dan token CSRF.
 - Formulir pengelolaan pengguna dan alat menyertakan token CSRF.
+
+user:
+usn:admin pw:12345678
+usn:petugas pw:12345678
+usn:peminjam pw:12345678
